@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 #  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
@@ -176,3 +177,6 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
 ## 9. License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/abdellatif-laghjaj) with the contribution of [@takitajwar17](https://github.com/takitajwar17). 
+=======
+# To-do-List
+>>>>>>> 611cebc86be91e727d546a62d08dbea0f1780f02
